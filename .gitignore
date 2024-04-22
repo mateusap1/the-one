@@ -69,9 +69,9 @@ project/**/metals.sbt
 .bsp
 .history
 
-.metals/
-.bloop/
-.ammonite/
+.metals
+.bloop
+.ammonite
 metals.sbt
 
-.vscode/
+.vscode
