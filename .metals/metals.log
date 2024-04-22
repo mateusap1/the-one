@@ -2449,3 +2449,350 @@ WARNING: Unmatched cancel notification for request id 924
 2024.04.22 12:43:28 INFO  time: compiled the-one in 0.12s[0m
 2024.04.22 12:43:36 INFO  compiling the-one (1 scala source)[0m
 2024.04.22 12:43:36 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 12:48:15 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 12:48:15 INFO  time: compiled the-one in 0.14s[0m
+2024.04.22 12:49:42 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 12:49:42 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:13:20 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:13:20 INFO  time: compiled the-one in 0.14s[0m
+2024.04.22 13:13:21 WARN  Using indexes to guess the definition of value[0m
+2024.04.22 13:13:21 WARN  Using indexes to guess the definition of value[0m
+2024.04.22 13:13:26 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:13:26 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 13:22:28 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:22:28 INFO  time: compiled the-one in 0.22s[0m
+2024.04.22 13:22:33 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:22:33 INFO  time: compiled the-one in 53ms[0m
+something's wrong: no file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala in List[<error>]RangePosition(file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala, 198, 198, 212)
+something's wrong: no file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala in List[<error>]RangePosition(file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala, 198, 198, 205)
+something's wrong: no file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala in List[String]RangePosition(file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala, 198, 198, 210)
+2024.04.22 13:23:08 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:23:08 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:23:29 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:23:29 WARN  Using indexes to guess the definition of string[0m
+2024.04.22 13:23:29 INFO  time: compiled the-one in 52ms[0m
+2024.04.22 13:23:33 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:23:33 INFO  time: compiled the-one in 66ms[0m
+2024.04.22 13:23:35 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:23:35 INFO  time: compiled the-one in 51ms[0m
+Exception in thread "pool-7-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:243)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Apr 22, 2024 1:23:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1697
+Apr 22, 2024 1:23:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1699
+2024.04.22 13:23:43 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:23:43 INFO  time: compiled the-one in 66ms[0m
+2024.04.22 13:24:24 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:24 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:24:28 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:28 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:24:43 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:43 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:24:54 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:54 WARN  Using indexes to guess the definition of string[0m
+2024.04.22 13:24:54 INFO  time: compiled the-one in 98ms[0m
+2024.04.22 13:24:56 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:56 INFO  time: compiled the-one in 93ms[0m
+2024.04.22 13:24:58 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:24:58 INFO  time: compiled the-one in 0.1s[0m
+Apr 22, 2024 1:24:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.04.22 13:25:01 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:01 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:25:26 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:26 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:25:28 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:28 INFO  time: compiled the-one in 78ms[0m
+2024.04.22 13:25:29 WARN  Using indexes to guess the definition of Source[0m
+Apr 22, 2024 1:25:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2091
+2024.04.22 13:25:41 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:41 INFO  time: compiled the-one in 0.13s[0m
+2024.04.22 13:25:47 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:47 INFO  time: compiled the-one in 83ms[0m
+2024.04.22 13:25:52 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:52 INFO  time: compiled the-one in 98ms[0m
+2024.04.22 13:25:55 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:25:55 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:26:06 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:26:06 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:26:18 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:26:18 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:26:30 WARN  Using indexes to guess the definition of TheOneRaw[0m
+2024.04.22 13:26:30 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:26:30 INFO  time: compiled the-one in 88ms[0m
+2024.04.22 13:26:38 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:26:38 INFO  time: compiled the-one in 82ms[0m
+2024.04.22 13:27:42 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:27:42 INFO  time: compiled the-one in 0.13s[0m
+Apr 22, 2024 1:27:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2585
+2024.04.22 13:28:01 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:28:01 INFO  time: compiled the-one in 0.24s[0m
+2024.04.22 13:28:08 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:28:08 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:28:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:28:10 INFO  time: compiled the-one in 69ms[0m
+2024.04.22 13:28:53 ERROR Failed to tokenize input for semantic tokens for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+STOP_WORDS = Set(")
+                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.04.22 13:28:57 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:28:57 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:28:58 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:28:58 INFO  time: compiled the-one in 94ms[0m
+2024.04.22 13:29:09 WARN  Using indexes to guess the definition of TheOneType[0m
+2024.04.22 13:29:09 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:29:09 INFO  time: compiled the-one in 97ms[0m
+2024.04.22 13:29:11 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:29:11 INFO  time: compiled the-one in 90ms[0m
+2024.04.22 13:29:11 WARN  Using indexes to guess the definition of TheOne[0m
+2024.04.22 13:29:21 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:29:21 INFO  time: compiled the-one in 90ms[0m
+2024.04.22 13:30:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:30:10 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:30:26 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:30:26 INFO  time: compiled the-one in 85ms[0m
+Apr 22, 2024 1:30:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3040
+2024.04.22 13:30:56 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:30:56 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:31:36 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:31:36 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:32:02 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:32:02 INFO  time: compiled the-one in 88ms[0m
+2024.04.22 13:32:12 WARN  Using indexes to guess the definition of words[0m
+2024.04.22 13:32:14 WARN  Using indexes to guess the definition of String[0m
+2024.04.22 13:32:18 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:32:18 INFO  time: compiled the-one in 94ms[0m
+2024.04.22 13:32:31 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:32:31 INFO  time: compiled the-one in 92ms[0m
+2024.04.22 13:32:36 WARN  Using indexes to guess the definition of TheOneWordsMap[0m
+2024.04.22 13:32:36 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:32:36 INFO  time: compiled the-one in 94ms[0m
+2024.04.22 13:32:51 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:32:51 INFO  time: compiled the-one in 93ms[0m
+2024.04.22 13:32:58 WARN  Using indexes to guess the definition of Int[0m
+2024.04.22 13:33:01 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:01 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:33:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:10 INFO  time: compiled the-one in 98ms[0m
+2024.04.22 13:33:15 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:15 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:33:21 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:21 INFO  time: compiled the-one in 94ms[0m
+2024.04.22 13:33:23 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:23 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 13:33:45 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:45 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:33:45 WARN  Using indexes to guess the definition of TheOneRaw[0m
+2024.04.22 13:33:47 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:47 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:33:48 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:33:48 INFO  time: compiled the-one in 85ms[0m
+2024.04.22 13:34:17 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:34:17 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 13:34:34 WARN  Using indexes to guess the definition of String[0m
+2024.04.22 13:34:36 WARN  Using indexes to guess the definition of TheOneData[0m
+2024.04.22 13:34:36 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:34:36 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:37:50 WARN  Using indexes to guess the definition of TheOneData[0m
+2024.04.22 13:37:51 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:37:51 INFO  time: compiled the-one in 0.14s[0m
+Apr 22, 2024 1:38:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4036
+2024.04.22 13:38:05 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:38:05 INFO  time: compiled the-one in 90ms[0m
+2024.04.22 13:38:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:38:10 INFO  time: compiled the-one in 92ms[0m
+2024.04.22 13:38:12 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:38:12 INFO  time: compiled the-one in 89ms[0m
+2024.04.22 13:38:46 WARN  Using indexes to guess the definition of value[0m
+Apr 22, 2024 1:39:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4130
+Apr 22, 2024 1:39:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4132
+2024.04.22 13:39:08 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:39:08 INFO  time: compiled the-one in 0.13s[0m
+2024.04.22 13:39:58 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:39:58 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:39:59 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:39:59 INFO  time: compiled the-one in 78ms[0m
+2024.04.22 13:40:08 WARN  Using indexes to guess the definition of value[0m
+2024.04.22 13:40:08 WARN  Using indexes to guess the definition of value[0m
+2024.04.22 13:40:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:40:10 INFO  time: compiled the-one in 99ms[0m
+2024.04.22 13:40:18 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:40:18 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:40:22 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:40:22 INFO  time: compiled the-one in 85ms[0m
+2024.04.22 13:40:29 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:40:29 INFO  time: compiled the-one in 94ms[0m
+2024.04.22 13:40:33 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:40:33 INFO  time: compiled the-one in 85ms[0m
+2024.04.22 13:41:47 WARN  Using indexes to guess the definition of TheOneWordsMap[0m
+2024.04.22 13:41:48 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:41:48 INFO  time: compiled the-one in 90ms[0m
+2024.04.22 13:42:58 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:42:58 WARN  Using indexes to guess the definition of B[0m
+2024.04.22 13:42:58 INFO  time: compiled the-one in 0.17s[0m
+2024.04.22 13:43:03 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:03 INFO  time: compiled the-one in 87ms[0m
+2024.04.22 13:43:03 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:03 INFO  time: compiled the-one in 57ms[0m
+2024.04.22 13:43:07 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:07 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 13:43:07 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:07 INFO  time: compiled the-one in 62ms[0m
+Apr 22, 2024 1:43:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4572
+2024.04.22 13:43:27 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:27 INFO  time: compiled the-one in 0.12s[0m
+2024.04.22 13:43:27 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:43:27 INFO  time: compiled the-one in 78ms[0m
+2024.04.22 13:44:01 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:44:01 INFO  time: compiled the-one in 0.17s[0m
+2024.04.22 13:44:04 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:44:04 INFO  time: compiled the-one in 92ms[0m
+2024.04.22 13:44:32 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:44:32 INFO  time: compiled the-one in 0.14s[0m
+2024.04.22 13:44:34 WARN  Using indexes to guess the definition of TheOneData[0m
+2024.04.22 13:44:45 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:44:45 INFO  time: compiled the-one in 49ms[0m
+2024.04.22 13:44:59 WARN  Using indexes to guess the definition of Set[0m
+2024.04.22 13:45:00 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:00 INFO  time: compiled the-one in 55ms[0m
+2024.04.22 13:45:07 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:07 INFO  time: compiled the-one in 77ms[0m
+2024.04.22 13:45:13 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:13 INFO  time: compiled the-one in 62ms[0m
+2024.04.22 13:45:35 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:35 INFO  time: compiled the-one in 93ms[0m
+2024.04.22 13:45:38 WARN  Using indexes to guess the definition of words[0m
+2024.04.22 13:45:38 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:38 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:45:43 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:43 INFO  time: compiled the-one in 0.1s[0m
+2024.04.22 13:45:57 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:45:57 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:46:05 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:05 INFO  time: compiled the-one in 0.11s[0m
+2024.04.22 13:46:06 WARN  Using indexes to guess the definition of String[0m
+2024.04.22 13:46:08 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:08 INFO  time: compiled the-one in 87ms[0m
+2024.04.22 13:46:13 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:13 INFO  time: compiled the-one in 90ms[0m
+2024.04.22 13:46:30 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:30 INFO  time: compiled the-one in 0.1s[0m
+Apr 22, 2024 1:46:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5398
+2024.04.22 13:46:51 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:51 INFO  time: compiled the-one in 98ms[0m
+2024.04.22 13:46:54 WARN  Using indexes to guess the definition of TheOneWords[0m
+2024.04.22 13:46:54 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:46:54 INFO  time: compiled the-one in 80ms[0m
+2024.04.22 13:47:08 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:47:08 INFO  time: compiled the-one in 0.99s[0m
+2024.04.22 13:47:22 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:47:23 INFO  time: compiled the-one in 1.06s[0m
+2024.04.22 13:47:28 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:47:28 INFO  time: compiled the-one in 0.74s[0m
+2024.04.22 13:47:38 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:47:38 INFO  time: compiled the-one in 0.72s[0m
+2024.04.22 13:47:46 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:47:46 INFO  time: compiled the-one in 0.72s[0m
+2024.04.22 13:53:38 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:53:38 INFO  time: compiled the-one in 0.82s[0m
+Apr 22, 2024 1:53:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5758
+2024.04.22 13:54:10 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:54:10 INFO  time: compiled the-one in 0.75s[0m
+2024.04.22 13:55:28 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:28 INFO  time: compiled the-one-test in 0.17s[0m
+2024.04.22 13:55:28 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:28 INFO  time: compiled the-one-test in 0.12s[0m
+Apr 22, 2024 1:55:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6057
+2024.04.22 13:55:31 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:31 INFO  time: compiled the-one-test in 0.11s[0m
+2024.04.22 13:55:31 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:31 INFO  time: compiled the-one-test in 75ms[0m
+2024.04.22 13:55:34 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:34 INFO  time: compiled the-one-test in 0.1s[0m
+2024.04.22 13:55:41 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:41 INFO  time: compiled the-one-test in 0.16s[0m
+2024.04.22 13:55:41 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:55:41 INFO  time: compiled the-one-test in 91ms[0m
+2024.04.22 13:55:42 WARN  Using indexes to guess the definition of wordsMap[0m
+2024.04.22 13:55:43 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:55:44 INFO  time: compiled the-one in 1.25s[0m
+2024.04.22 13:55:53 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:55:53 INFO  time: compiled the-one in 0.15s[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:54 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:55 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Could not load snapshot text for /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/main/scala/Main.scala[0m
+2024.04.22 13:55:57 WARN  Using indexes to guess the definition of words[0m
+2024.04.22 13:55:57 INFO  time: compiled the-one in 0.75s[0m
+2024.04.22 13:57:07 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:57:07 INFO  time: compiled the-one in 0.75s[0m
+2024.04.22 13:57:20 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 13:57:20 INFO  time: compiled the-one in 0.7s[0m
+2024.04.22 13:59:00 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 13:59:00 INFO  time: compiled the-one-test in 0.17s[0m
+Apr 22, 2024 2:05:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
