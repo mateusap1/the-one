@@ -46,7 +46,7 @@ object WordCounter {
 
   def removeStopWords(inputWords: TheOneWords): TheOneWords = {
     val stopWordsPath =
-      "/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/stop_words.txt"
+      "/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/data/stop_words.txt"
     val stopWords = Source.fromFile(stopWordsPath).getLines().toSet
 
     TheOneWords(inputWords.words.filter((s: String) => !stopWords.contains(s)))
@@ -85,7 +85,7 @@ object WordCounter {
 
 object Main extends App {
   val path =
-    "/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/pride-and-prejudice.txt"
+    "/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/data/pride-and-prejudice.txt"
 
   new TheOne(TheOneRaw(path))
     .bind(WordCounter.readFile(_))
