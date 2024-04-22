@@ -2796,3 +2796,131 @@ WARNING: Unmatched cancel notification for request id 6057
 2024.04.22 13:59:00 INFO  time: compiled the-one-test in 0.17s[0m
 Apr 22, 2024 2:05:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.04.22 14:08:53 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:08:53 WARN  Using indexes to guess the definition of WordCounter[0m
+2024.04.22 14:08:53 INFO  time: compiled the-one-test in 0.18s[0m
+2024.04.22 14:09:16 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:09:16 INFO  time: compiled the-one-test in 0.16s[0m
+2024.04.22 14:09:22 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:09:22 INFO  time: compiled the-one-test in 0.12s[0m
+2024.04.22 14:09:24 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:09:24 INFO  time: compiled the-one-test in 95ms[0m
+Apr 22, 2024 2:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6577
+2024.04.22 14:10:09 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:10:09 INFO  time: compiled the-one-test in 0.15s[0m
+2024.04.22 14:10:23 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:10:23 INFO  time: compiled the-one-test in 98ms[0m
+2024.04.22 14:10:42 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:10:42 INFO  time: compiled the-one-test in 0.16s[0m
+2024.04.22 14:11:02 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:02 INFO  time: compiled the-one-test in 0.14s[0m
+2024.04.22 14:11:20 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:20 INFO  time: compiled the-one-test in 0.12s[0m
+2024.04.22 14:11:23 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:23 INFO  time: compiled the-one-test in 0.12s[0m
+2024.04.22 14:11:34 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:34 INFO  time: compiled the-one-test in 86ms[0m
+2024.04.22 14:11:37 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:37 INFO  time: compiled the-one-test in 99ms[0m
+Apr 22, 2024 2:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7013
+2024.04.22 14:11:46 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:46 INFO  time: compiled the-one-test in 0.4s[0m
+2024.04.22 14:11:51 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:51 INFO  time: compiled the-one-test in 0.12s[0m
+2024.04.22 14:11:59 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:11:59 INFO  time: compiled the-one-test in 0.12s[0m
+2024.04.22 14:12:07 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:12:07 INFO  time: compiled the-one-test in 0.11s[0m
+Apr 22, 2024 2:12:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7099
+2024.04.22 14:12:11 INFO  time: code lens generation in 1.32s[0m
+2024.04.22 14:12:18 INFO  skipping build import with status 'Installed'[0m
+2024.04.22 14:12:18 INFO  Disconnecting from Bloop session...[0m
+2024.04.22 14:12:18 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:18 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:18 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.04.22 14:12:18 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/project/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.04.22 14:12:18 INFO  time: Connected to build server in 44ms[0m
+2024.04.22 14:12:18 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.04.22 14:12:20 INFO  time: indexed workspace in 2.12s[0m
+2024.04.22 14:12:20 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:12:26 INFO  time: compiled the-one-test in 6.27s[0m
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7161
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7168
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7162
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7163
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7160
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7174
+Apr 22, 2024 2:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7165
+2024.04.22 14:12:27 INFO  skipping build import with status 'Installed'[0m
+2024.04.22 14:12:27 INFO  Disconnecting from Bloop session...[0m
+2024.04.22 14:12:27 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:27 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:27 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.04.22 14:12:26 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/project/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.04.22 14:12:26 INFO  time: Connected to build server in 57ms[0m
+2024.04.22 14:12:26 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.04.22 14:12:30 INFO  time: indexed workspace in 3.17s[0m
+2024.04.22 14:12:30 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:12:30 INFO  time: compiled the-one-test in 0.18s[0m
+Apr 22, 2024 2:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7202
+Apr 22, 2024 2:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7199
+2024.04.22 14:12:38 INFO  skipping build import with status 'Installed'[0m
+Apr 22, 2024 2:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7212
+2024.04.22 14:12:38 INFO  Disconnecting from Bloop session...[0m
+2024.04.22 14:12:38 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:38 INFO  Shut down connection with build server.[0m
+2024.04.22 14:12:38 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+Apr 22, 2024 2:12:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/.metals/.reports/metals-full/2024-04-22/r_compiler-error_(the-one-test)_14-12-38-150.md
+2024.04.22 14:12:38 WARN  Could not find semantic tokens for: file:///Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/src/test/scala/TheOneTest.scala[0m
+2024.04.22 14:12:38 INFO  Attempting to connect to the build server...[0m
+2024.04.22 14:12:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/project/.metals/bsp.trace.json or /Users/mateusoliveirasantos/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.04.22 14:12:38 INFO  time: Connected to build server in 57ms[0m
+2024.04.22 14:12:38 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.04.22 14:12:40 INFO  time: indexed workspace in 1.94s[0m
+2024.04.22 14:12:40 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:12:46 INFO  time: compiled the-one-test in 5.91s[0m
+Apr 22, 2024 2:12:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7232
+Apr 22, 2024 2:12:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7235
+2024.04.22 14:12:55 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:12:55 INFO  time: compiled the-one-test in 0.15s[0m
+2024.04.22 14:13:25 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:13:25 INFO  time: compiled the-one-test in 0.15s[0m
+Apr 22, 2024 2:13:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7477
+2024.04.22 14:13:36 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:13:36 INFO  time: compiled the-one-test in 0.11s[0m
+Apr 22, 2024 2:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7549
+2024.04.22 14:13:42 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:13:42 INFO  time: compiled the-one-test in 0.14s[0m
+Apr 22, 2024 2:13:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7600
+2024.04.22 14:13:52 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:13:52 INFO  time: compiled the-one-test in 89ms[0m
+2024.04.22 14:13:59 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:13:59 INFO  time: compiled the-one-test in 0.11s[0m
+2024.04.22 14:14:03 INFO  compiling the-one-test (1 scala source)[0m
+2024.04.22 14:14:03 INFO  time: compiled the-one-test in 0.49s[0m
+2024.04.22 14:14:40 INFO  compiling the-one (1 scala source)[0m
+2024.04.22 14:14:40 INFO  time: compiled the-one in 0.78s[0m

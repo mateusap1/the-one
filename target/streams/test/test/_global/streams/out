@@ -1,16 +1,14 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TheOneTest, org.scalatest.tools.Framework$$anon$1@22f0f202, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TheOneTest, org.scalatest.tools.Framework$$anon$1@53764319, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mTheOneTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Should filter non-word chars and replace them with a space[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Should normalize, make it all lowercase[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Should scan, split the raw text into an array of words[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Should remove all stop words, the ones we don't care[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Should correctly map how many words there are[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Should sort the most common words[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Should get the most frequent words from an ordered list[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 152 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 150 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TheOneTest[0m

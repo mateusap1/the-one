@@ -86,9 +86,7 @@ object WordCounter {
 object Main extends App {
   val path =
     "/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/pride-and-prejudice.txt"
-  // val content = TheOne.readFile("./test.txt")
-  // printf("File content: %s", content)
-  // println(WordCounter.addToMap("a", Map("a" -> 1, "b" -> 2)))
+
   new TheOne(TheOneRaw(path))
     .bind(WordCounter.readFile(_))
     .bind(WordCounter.filterChars(_))
