@@ -1,0 +1,4 @@
+[debug] [the-one-test] Classpath dependencies List()
+[debug] [the-one-test] Dependencies from configurations List(the-one)
+[debug] Bloop wrote the configuration of project 'the-one-test' to '/Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/.bloop/the-one-test.json'
+[success] Generated .bloop/the-one-test.json

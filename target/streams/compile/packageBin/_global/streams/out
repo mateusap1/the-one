@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone/TheOne.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone/TheOne.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone/TheOne$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone/TheOne$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/unb/theone/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org/unb/theone/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org 2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusoliveirasantos/Documents/estudos/unb/tec_prog/code/the-one/target/scala-2.13/classes/org 2[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
